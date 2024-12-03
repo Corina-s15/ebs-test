@@ -1,0 +1,1 @@
+export const emptyMessage = "Your cart is empty!";
